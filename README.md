@@ -1,4 +1,5 @@
 * 👋 Hi, My name is Ivan Tran (he/him)
+      - Besides coding, I enjoy watching anime, reading manga, and playing Gensin Impact
 * 📫 How to reach me:
       - Email: ivamitran16432@gmail.com
       - Discord: Superposition#9088

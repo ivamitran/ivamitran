@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ivamitran (Ivan, Tran, he/his pronouns)
-- 👀 I’m interested in programming and circuitry
-- 🌱 I’m currently learning Tkinter
-- 💞️ I’m looking to collaborate on programming projects that have real-world applications
-- 📫 How to reach me:
+* 👋 Hi, My name is Ivan Tran (he/him)
+* 📫 How to reach me:
+      - Email: ivamitran16432@gmail.com
       - Discord: Superposition#9088
 
 <!---

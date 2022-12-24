@@ -1,8 +1,5 @@
-* 👋 Hi, My name is Ivan Tran (he/him) <br>
-      - Besides coding, I enjoy watching anime, reading manga, and playing Gensin Impact
-* 📫 How to reach me:
-      - Email: ivamitran16432@gmail.com
-      - Discord: Superposition#9088
+"It is those who possess wisdom who are the greatest fools. History has shown us this. You could say that this is the final warning from God to those who resist."
+- Okabe Rintarou
 
 <!---
 ivamitran/ivamitran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
